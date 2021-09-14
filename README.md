@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asfadmin/asf-jupyter-notebooks/binder_InSARTimeSeriesGIANTProcessing?filepath=Exercise8B-InSARTimeSeriesGIANTProcessing.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asfadmin/asf-jupyter-notebooks/insar_ts_jlab?filepath=Exercise8B-InSARTimeSeriesGIANTProcessing.ipynb)
 
 # ASF Jupyter Notebooks
 __Where python meets fun!!__
